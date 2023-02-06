@@ -1,0 +1,81 @@
+C:\Users\Batuhan DEMİRTÜRK\OneDrive\Masaüstü\Deneme\Görsel Programlama\HospitalAutomation\bin\Debug\HospitalAutomation.exe.config
+C:\Users\Batuhan DEMİRTÜRK\OneDrive\Masaüstü\Deneme\Görsel Programlama\HospitalAutomation\bin\Debug\HospitalAutomation.exe
+C:\Users\Batuhan DEMİRTÜRK\OneDrive\Masaüstü\Deneme\Görsel Programlama\HospitalAutomation\bin\Debug\HospitalAutomation.pdb
+C:\Users\Batuhan DEMİRTÜRK\OneDrive\Masaüstü\Deneme\Görsel Programlama\HospitalAutomation\obj\Debug\HospitalAutomation.csproj.AssemblyReference.cache
+C:\Users\Batuhan DEMİRTÜRK\OneDrive\Masaüstü\Deneme\Görsel Programlama\HospitalAutomation\obj\Debug\HospitalAutomation.csproj.SuggestedBindingRedirects.cache
+C:\Users\Batuhan DEMİRTÜRK\OneDrive\Masaüstü\Deneme\Görsel Programlama\HospitalAutomation\obj\Debug\HospitalAutomation.PresentationLayer.DoctorForm.resources
+C:\Users\Batuhan DEMİRTÜRK\OneDrive\Masaüstü\Deneme\Görsel Programlama\HospitalAutomation\obj\Debug\HospitalAutomation.PresentationLayer.GraphicsForm.resources
+C:\Users\Batuhan DEMİRTÜRK\OneDrive\Masaüstü\Deneme\Görsel Programlama\HospitalAutomation\obj\Debug\HospitalAutomation.MainForm.resources
+C:\Users\Batuhan DEMİRTÜRK\OneDrive\Masaüstü\Deneme\Görsel Programlama\HospitalAutomation\obj\Debug\HospitalAutomation.PresentationLayer.SecretaryForm.resources
+C:\Users\Batuhan DEMİRTÜRK\OneDrive\Masaüstü\Deneme\Görsel Programlama\HospitalAutomation\obj\Debug\HospitalAutomation.PresentationLayer.Secretary.AddPatient.resources
+C:\Users\Batuhan DEMİRTÜRK\OneDrive\Masaüstü\Deneme\Görsel Programlama\HospitalAutomation\obj\Debug\HospitalAutomation.Properties.Resources.resources
+C:\Users\Batuhan DEMİRTÜRK\OneDrive\Masaüstü\Deneme\Görsel Programlama\HospitalAutomation\obj\Debug\HospitalAutomation.csproj.GenerateResource.cache
+C:\Users\Batuhan DEMİRTÜRK\OneDrive\Masaüstü\Deneme\Görsel Programlama\HospitalAutomation\obj\Debug\HospitalAutomation.csproj.CoreCompileInputs.cache
+C:\Users\Batuhan DEMİRTÜRK\OneDrive\Masaüstü\Deneme\Görsel Programlama\HospitalAutomation\obj\Debug\HospitalAutomation.exe
+C:\Users\Batuhan DEMİRTÜRK\OneDrive\Masaüstü\Deneme\Görsel Programlama\HospitalAutomation\obj\Debug\HospitalAutomation.pdb
+C:\Users\Batuhan DEMİRTÜRK\OneDrive\Masaüstü\Deneme\Görsel Programlama\HospitalAutomation\obj\Debug\HospitalAutomation.PresentationLayer.SecretaryTransactions.AddAppointment.resources
+C:\Users\Batuhan DEMİRTÜRK\OneDrive\Masaüstü\Deneme\Görsel Programlama\HospitalAutomation\obj\Debug\HospitalAutomation.PresentationLayer.SecretaryTransactions.AddDoctor.resources
+C:\Users\Batuhan DEMİRTÜRK\OneDrive\Masaüstü\Deneme\Görsel Programlama\HospitalAutomation\obj\Debug\HospitalAutomation.PresentationLayer.SecretaryTransactions.AddSecretary.resources
+C:\Users\Batuhan DEMİRTÜRK\OneDrive\Masaüstü\Deneme\Görsel Programlama\HospitalAutomation\bin\Debug\EntityFramework.dll
+C:\Users\Batuhan DEMİRTÜRK\OneDrive\Masaüstü\Deneme\Görsel Programlama\HospitalAutomation\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Batuhan DEMİRTÜRK\OneDrive\Masaüstü\Deneme\Görsel Programlama\HospitalAutomation\bin\Debug\EntityFramework.xml
+C:\Users\Batuhan DEMİRTÜRK\OneDrive\Masaüstü\Deneme\Görsel Programlama\HospitalAutomation\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Batuhan DEMİRTÜRK\OneDrive\Masaüstü\Deneme\Görsel Programlama\HospitalAutomation\obj\Debug\HospitalAutomation.csproj.CopyComplete
+C:\Users\Batuhan DEMİRTÜRK\OneDrive\Masaüstü\Deneme\Görsel Programlama\HospitalAutomation\bin\Debug\ZedGraph.dll
+C:\Users\Batuhan DEMİRTÜRK\OneDrive\Masaüstü\Deneme\Görsel Programlama\HospitalAutomation\bin\Debug\ZedGraph.xml
+C:\Users\Batuhan DEMİRTÜRK\OneDrive\Masaüstü\Deneme\Görsel Programlama\HospitalAutomation\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Batuhan DEMİRTÜRK\OneDrive\Masaüstü\Deneme\Görsel Programlama\HospitalAutomation\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Batuhan DEMİRTÜRK\OneDrive\Masaüstü\Deneme\Görsel Programlama\HospitalAutomation\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Batuhan DEMİRTÜRK\OneDrive\Masaüstü\Deneme\Görsel Programlama\HospitalAutomation\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Batuhan DEMİRTÜRK\OneDrive\Masaüstü\Deneme\Görsel Programlama\HospitalAutomation\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Batuhan DEMİRTÜRK\OneDrive\Masaüstü\Deneme\Görsel Programlama\HospitalAutomation\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Batuhan DEMİRTÜRK\OneDrive\Masaüstü\Deneme\Görsel Programlama\HospitalAutomation\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Batuhan DEMİRTÜRK\OneDrive\Masaüstü\Deneme\Görsel Programlama\HospitalAutomation\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Batuhan DEMİRTÜRK\OneDrive\Masaüstü\Deneme\Görsel Programlama\HospitalAutomation\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Batuhan DEMİRTÜRK\OneDrive\Masaüstü\Deneme\Görsel Programlama\HospitalAutomation\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Batuhan DEMİRTÜRK\OneDrive\Masaüstü\Deneme\Görsel Programlama\HospitalAutomation\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Batuhan DEMİRTÜRK\OneDrive\Masaüstü\Deneme\Görsel Programlama\HospitalAutomation\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Batuhan DEMİRTÜRK\OneDrive\Masaüstü\Deneme\Görsel Programlama\HospitalAutomation\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Batuhan DEMİRTÜRK\OneDrive\Masaüstü\Deneme\Görsel Programlama\HospitalAutomation\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Batuhan DEMİRTÜRK\OneDrive\Masaüstü\Deneme\Görsel Programlama\HospitalAutomation\bin\Debug\itextsharp.dll
+C:\Users\Batuhan DEMİRTÜRK\OneDrive\Masaüstü\Deneme\Görsel Programlama\HospitalAutomation\bin\Debug\itextsharp.xml
+C:\Users\Batuhan DEMİRTÜRK\OneDrive\Masaüstü\BatuhanDemirtürk_192114007\HospitalAutomation\bin\Debug\HospitalAutomation.exe.config
+C:\Users\Batuhan DEMİRTÜRK\OneDrive\Masaüstü\BatuhanDemirtürk_192114007\HospitalAutomation\bin\Debug\HospitalAutomation.exe
+C:\Users\Batuhan DEMİRTÜRK\OneDrive\Masaüstü\BatuhanDemirtürk_192114007\HospitalAutomation\bin\Debug\HospitalAutomation.pdb
+C:\Users\Batuhan DEMİRTÜRK\OneDrive\Masaüstü\BatuhanDemirtürk_192114007\HospitalAutomation\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Batuhan DEMİRTÜRK\OneDrive\Masaüstü\BatuhanDemirtürk_192114007\HospitalAutomation\bin\Debug\EntityFramework.dll
+C:\Users\Batuhan DEMİRTÜRK\OneDrive\Masaüstü\BatuhanDemirtürk_192114007\HospitalAutomation\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Batuhan DEMİRTÜRK\OneDrive\Masaüstü\BatuhanDemirtürk_192114007\HospitalAutomation\bin\Debug\itextsharp.dll
+C:\Users\Batuhan DEMİRTÜRK\OneDrive\Masaüstü\BatuhanDemirtürk_192114007\HospitalAutomation\bin\Debug\EntityFramework.xml
+C:\Users\Batuhan DEMİRTÜRK\OneDrive\Masaüstü\BatuhanDemirtürk_192114007\HospitalAutomation\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Batuhan DEMİRTÜRK\OneDrive\Masaüstü\BatuhanDemirtürk_192114007\HospitalAutomation\bin\Debug\itextsharp.xml
+C:\Users\Batuhan DEMİRTÜRK\OneDrive\Masaüstü\BatuhanDemirtürk_192114007\HospitalAutomation\bin\Debug\ZedGraph.xml
+C:\Users\Batuhan DEMİRTÜRK\OneDrive\Masaüstü\BatuhanDemirtürk_192114007\HospitalAutomation\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Batuhan DEMİRTÜRK\OneDrive\Masaüstü\BatuhanDemirtürk_192114007\HospitalAutomation\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Batuhan DEMİRTÜRK\OneDrive\Masaüstü\BatuhanDemirtürk_192114007\HospitalAutomation\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Batuhan DEMİRTÜRK\OneDrive\Masaüstü\BatuhanDemirtürk_192114007\HospitalAutomation\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Batuhan DEMİRTÜRK\OneDrive\Masaüstü\BatuhanDemirtürk_192114007\HospitalAutomation\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Batuhan DEMİRTÜRK\OneDrive\Masaüstü\BatuhanDemirtürk_192114007\HospitalAutomation\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Batuhan DEMİRTÜRK\OneDrive\Masaüstü\BatuhanDemirtürk_192114007\HospitalAutomation\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Batuhan DEMİRTÜRK\OneDrive\Masaüstü\BatuhanDemirtürk_192114007\HospitalAutomation\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Batuhan DEMİRTÜRK\OneDrive\Masaüstü\BatuhanDemirtürk_192114007\HospitalAutomation\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Batuhan DEMİRTÜRK\OneDrive\Masaüstü\BatuhanDemirtürk_192114007\HospitalAutomation\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Batuhan DEMİRTÜRK\OneDrive\Masaüstü\BatuhanDemirtürk_192114007\HospitalAutomation\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Batuhan DEMİRTÜRK\OneDrive\Masaüstü\BatuhanDemirtürk_192114007\HospitalAutomation\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Batuhan DEMİRTÜRK\OneDrive\Masaüstü\BatuhanDemirtürk_192114007\HospitalAutomation\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Batuhan DEMİRTÜRK\OneDrive\Masaüstü\BatuhanDemirtürk_192114007\HospitalAutomation\obj\Debug\HospitalAutomation.csproj.AssemblyReference.cache
+C:\Users\Batuhan DEMİRTÜRK\OneDrive\Masaüstü\BatuhanDemirtürk_192114007\HospitalAutomation\obj\Debug\HospitalAutomation.csproj.SuggestedBindingRedirects.cache
+C:\Users\Batuhan DEMİRTÜRK\OneDrive\Masaüstü\BatuhanDemirtürk_192114007\HospitalAutomation\obj\Debug\HospitalAutomation.PresentationLayer.DoctorForm.resources
+C:\Users\Batuhan DEMİRTÜRK\OneDrive\Masaüstü\BatuhanDemirtürk_192114007\HospitalAutomation\obj\Debug\HospitalAutomation.PresentationLayer.GraphicsForm.resources
+C:\Users\Batuhan DEMİRTÜRK\OneDrive\Masaüstü\BatuhanDemirtürk_192114007\HospitalAutomation\obj\Debug\HospitalAutomation.MainForm.resources
+C:\Users\Batuhan DEMİRTÜRK\OneDrive\Masaüstü\BatuhanDemirtürk_192114007\HospitalAutomation\obj\Debug\HospitalAutomation.PresentationLayer.SecretaryForm.resources
+C:\Users\Batuhan DEMİRTÜRK\OneDrive\Masaüstü\BatuhanDemirtürk_192114007\HospitalAutomation\obj\Debug\HospitalAutomation.PresentationLayer.SecretaryTransactions.AddAppointment.resources
+C:\Users\Batuhan DEMİRTÜRK\OneDrive\Masaüstü\BatuhanDemirtürk_192114007\HospitalAutomation\obj\Debug\HospitalAutomation.PresentationLayer.SecretaryTransactions.AddDoctor.resources
+C:\Users\Batuhan DEMİRTÜRK\OneDrive\Masaüstü\BatuhanDemirtürk_192114007\HospitalAutomation\obj\Debug\HospitalAutomation.PresentationLayer.Secretary.AddPatient.resources
+C:\Users\Batuhan DEMİRTÜRK\OneDrive\Masaüstü\BatuhanDemirtürk_192114007\HospitalAutomation\obj\Debug\HospitalAutomation.PresentationLayer.SecretaryTransactions.AddSecretary.resources
+C:\Users\Batuhan DEMİRTÜRK\OneDrive\Masaüstü\BatuhanDemirtürk_192114007\HospitalAutomation\obj\Debug\HospitalAutomation.Properties.Resources.resources
+C:\Users\Batuhan DEMİRTÜRK\OneDrive\Masaüstü\BatuhanDemirtürk_192114007\HospitalAutomation\obj\Debug\HospitalAutomation.csproj.GenerateResource.cache
+C:\Users\Batuhan DEMİRTÜRK\OneDrive\Masaüstü\BatuhanDemirtürk_192114007\HospitalAutomation\obj\Debug\HospitalAutomation.csproj.CoreCompileInputs.cache
+C:\Users\Batuhan DEMİRTÜRK\OneDrive\Masaüstü\BatuhanDemirtürk_192114007\HospitalAutomation\obj\Debug\HospitalAutomation.csproj.CopyComplete
+C:\Users\Batuhan DEMİRTÜRK\OneDrive\Masaüstü\BatuhanDemirtürk_192114007\HospitalAutomation\obj\Debug\HospitalAutomation.exe
+C:\Users\Batuhan DEMİRTÜRK\OneDrive\Masaüstü\BatuhanDemirtürk_192114007\HospitalAutomation\obj\Debug\HospitalAutomation.pdb

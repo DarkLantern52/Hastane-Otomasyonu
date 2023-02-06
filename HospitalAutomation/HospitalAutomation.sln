@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HospitalAutomation", "HospitalAutomation.csproj", "{7B4D8883-8A56-4C54-9041-84FC80AC3157}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "HastaneOtomasyon", "..\HastaneOtomasyon\HastaneOtomasyon.vdproj", "{EDA74FB8-9DB4-408B-A3AF-723441D61C10}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B4D8883-8A56-4C54-9041-84FC80AC3157}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B4D8883-8A56-4C54-9041-84FC80AC3157}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B4D8883-8A56-4C54-9041-84FC80AC3157}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B4D8883-8A56-4C54-9041-84FC80AC3157}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDA74FB8-9DB4-408B-A3AF-723441D61C10}.Debug|Any CPU.ActiveCfg = Debug
+		{EDA74FB8-9DB4-408B-A3AF-723441D61C10}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {80153602-F248-4770-8EBD-4FA7FF7BFC71}
+	EndGlobalSection
+EndGlobal
